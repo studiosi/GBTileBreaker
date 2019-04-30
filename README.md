@@ -1,10 +1,10 @@
 # GBTileBreaker
 
-This is a fast-coded utility to help me in the process of ripping fonts from old GB cartridges. Save the tiles from Visual Boy Advance and run this utility as follows:
+This is a fast-coded utility to help me in the process of ripping fonts from old GB cartridges by chopping the tile dumps from Visual Boy Advance into individual tiles. Save the tiles from Visual Boy Advance and run this utility as follows:
 
 > python gbtb.py path_to_image_file 
 
-It runs on Pillow, the dependencies are specified via pipenv, so it should be fairly easy to make this work on your local computer.
+It runs on Pillow, the dependencies are specified via pipenv, so it should be fairly easy to make this work on your local computer. Feel free to do PRs and Feature Requests.
 
 # License
 
